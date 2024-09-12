@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1pw333k37Nw9EBhPz0uD9XWDEnHM7SnLf
+  /:
+    url: https://content.da.live/dipenrique/aem-boilerplate-da/
+    type: markup
